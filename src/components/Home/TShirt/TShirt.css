@@ -1,0 +1,10 @@
+.t-shirt-info{
+    height: 450px;
+    border: 1px solid lightgray;
+    border-radius: 8px;
+    margin: 10px;
+}
+.t-shirt-info img{
+    width: 250px;
+    height: 250px;
+}
